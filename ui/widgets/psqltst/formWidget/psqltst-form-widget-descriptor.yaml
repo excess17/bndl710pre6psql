@@ -1,0 +1,6 @@
+code: psqltst-form-widget
+titles:
+  en: Psqltst Form Widget
+  it: Psqltst Form Widget
+group: free
+customUiPath: psqltst-form-widget.ftl

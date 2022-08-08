@@ -1,0 +1,6 @@
+code: psqltst-details-widget
+titles:
+  en: Psqltst Details Widget
+  it: Psqltst Details Widget
+group: free
+customUiPath: psqltst-details-widget.ftl

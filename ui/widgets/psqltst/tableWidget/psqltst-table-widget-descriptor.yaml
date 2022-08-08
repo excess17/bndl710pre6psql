@@ -1,0 +1,6 @@
+code: psqltst-table-widget
+titles:
+  en: Psqltst Table Widget
+  it: Psqltst Table Widget
+group: free
+customUiPath: psqltst-table-widget.ftl
