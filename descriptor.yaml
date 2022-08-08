@@ -1,0 +1,13 @@
+code: bndl710pre6psql-bundle
+description: This is the bndl710pre6psql bundle
+
+components:
+  plugins:
+    - plugins/bndl710pre6psql-plugin.yaml
+
+  widgets:
+    - ui/widgets/psqltst/tableWidget/psqltst-table-widget-descriptor.yaml
+    - ui/widgets/psqltst/detailsWidget/psqltst-details-widget-descriptor.yaml
+    - ui/widgets/psqltst/formWidget/psqltst-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
